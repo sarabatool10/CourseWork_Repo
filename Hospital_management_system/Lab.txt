@@ -1,0 +1,5 @@
+ecr!1!10000
+blood test!2!5000
+Malaria!3!2000
+Dengue!4!2000
+Covid-19!5!600
